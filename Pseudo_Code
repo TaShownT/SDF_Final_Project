@@ -1,0 +1,24 @@
+SETTING UP AN ACCOUNT FOR A VIDEO GAME
+
+  User opens up app
+  
+  User chooses to either sign-up or log in
+    If the user has to sign up
+      Create a username and password
+      Verify account information
+        If account information is valid
+          Send a confirmation email
+  Display a splash screen while information and data is being uploaded and downloaded
+  
+  User chooses a save file
+    If no information is presented in the save file
+      choose 1 of 3 default character designs to start customizing
+      If the user chooses to customize the character
+        Open Up a list of adjustables specs towards the character's features
+        While opening up the 'list of adjustable specs'
+          Sort the locked 'items' and 'character features' from the presently available 'items' and 'character features'
+          Make the locked 'items' and 'character features' unavailable for the user to see until unlocked
+          
+   Display a splash screen uploading the last saved file for the account's character
+    If none is present
+      Load the charcter into the tutorial prologue
