@@ -4,7 +4,14 @@ SETTING UP AN ACCOUNT FOR A VIDEO GAME
   
   User chooses to either sign-up or log in
     If the user has to sign up
-      Create a username and password
+          Create a username
+      While creating a username
+        Check database for username availabiity
+        Display a pop-up notifying the user if the username is unavailable or not
+      Create a password
+      While the password is being made
+        Check to ensure password is strong enough and meets all requirements
+        Dsiplay a pop-up notifying user if Password is accpetable or not
       Verify account information
         If account information is valid
           Send a confirmation email
